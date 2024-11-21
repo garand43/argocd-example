@@ -6,7 +6,7 @@ metadata:
     app: ubuntu
 spec:
   containers:
-  - image: ubuntu:plucky
+  - image: ubuntu
     command:
       - "sleep"
       - "604800"
