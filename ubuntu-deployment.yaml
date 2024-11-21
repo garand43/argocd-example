@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: ubuntu
-        image: ubuntu:noble
+        image: ubuntu:plucky
         command:
           - "sleep"
           - "604800"
